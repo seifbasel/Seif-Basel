@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=1500&pause=50&color=4D6BF7&background=FFFFFFDF&vCenter=true&multiline=true&width=1000&height=200&lines=I+am+Seif+Basel;a+computer+science+student;and+web+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=1500&pause=50&color=4D6BF7&background=FFFFFFDF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=I+am+Seif+Basel;a+computer+science+student;and+web+developer.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifbasel&label=Profile%20views&color=0e75b6&style=flat" alt="seifbasel" /> </p>
 
