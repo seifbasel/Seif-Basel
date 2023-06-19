@@ -1,3 +1,6 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=2000&pause=1000&color=4D6BF7&background=FFFFFFDF&vCenter=true&multiline=true&width=435&lines=I+am+Seif+Basel;a+computer+science+student.;and+web+developer." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=2000&pause=1000&color=4D6BF7&background=FFFFFFDF&vCenter=true&multiline=true&width=435&lines=I+am+Seif+Basel;a+computer+science+student.;and+web+developer.)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifbasel&label=Profile%20views&color=0e75b6&style=flat" alt="seifbasel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifbasel" alt="seifbasel" /></a> </p>
