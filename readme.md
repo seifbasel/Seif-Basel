@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=2000&pause=1000&color=4D6BF7&background=FFFFFFDF&vCenter=true&multiline=true&width=435&lines=I+am+Seif+Basel;a+computer+science+student.;and+web+developer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=2000&pause=1000&color=4D6BF7&background=FFFFFFDF&vCenter=true&multiline=true&width=1000&lines=I+am+Seif+Basel;a+computer+science+student.;and+web+developer." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifbasel&label=Profile%20views&color=0e75b6&style=flat" alt="seifbasel" /> </p>
 
