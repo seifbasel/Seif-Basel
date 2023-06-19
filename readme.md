@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=1500&pause=50&color=4D6BF7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=200&lines=I+am+Seif+Basel;a+computer+science+student;and+web+developer.)](https://git.io/typing-svg)
 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seifbasel&label=Profile%20views&color=0e75b6&style=flat" alt="seifbasel" /> </p>
+
 - 🔭 I’m currently working on **learning full-stack web-development**
 
 - 👯 I’m looking to collaborate on **web projects**
@@ -29,7 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seifbasel&show_icons=true&locale=en" alt="seifbasel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifbasel&" alt="seifbasel" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seifbasel&label=Profile%20views&color=0e75b6&style=flat" alt="seifbasel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifbasel" alt="seifbasel" /></a> </p>
