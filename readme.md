@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/seifbasel](https://github.com/seifbasel)
 
-- 💬 Ask me about **web development or python development and problem solving...**
+- 💬 Ask me about **web development or python development**
 
 - 📫 How to reach me **seifbasel950@gmail.com**
 
