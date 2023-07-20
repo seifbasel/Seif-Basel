@@ -1,4 +1,5 @@
-![Uploading banner8.gif…]()
+![banner1](https://github.com/seifbasel/seifbasel/assets/83348134/14ec46cf-59d4-45d9-b6e2-b51af9c3f951)
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=1500&pause=50&color=4D6BF7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=200&lines=I+am+Seif+Basel;a+computer+science+student;and+web+developer.)](https://git.io/typing-svg)
