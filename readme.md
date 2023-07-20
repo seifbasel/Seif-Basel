@@ -1,5 +1,5 @@
-<div align="center"> ![banner1](https://github.com/seifbasel/seifbasel/assets/83348134/db352a78-060b-46bc-bd80-4fd4ddd6c571)
- </div>
+<img align="center"> ![banner1](https://github.com/seifbasel/seifbasel/assets/83348134/db352a78-060b-46bc-bd80-4fd4ddd6c571)
+ </img>
 
 
 
