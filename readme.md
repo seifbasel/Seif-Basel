@@ -39,6 +39,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 </div>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seifbasel)](https://github.com/seifbasel/github-readme-stats)
 
