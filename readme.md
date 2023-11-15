@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+<div align="center" style="background-color: white;>
 	<table>
 		<tr>
 			<td><img width="60" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></td>
@@ -39,7 +39,7 @@
 			<td><img width="60" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></td>
 			<td><img width="60" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></td>
 			<td><img width="60" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
-			<td><img width="60" style="background-color: white;  src="https://pngimg.com/uploads/github/github_PNG20.png" alt="GitHub" title="GitHub"/></td>
+			<td><img width="60"src="https://pngimg.com/uploads/github/github_PNG20.png" alt="GitHub" title="GitHub"/></td>
 			https://pngimg.com/uploads/github/github_PNG20.png
 			https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png
 			<td><img width="60" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></td>
