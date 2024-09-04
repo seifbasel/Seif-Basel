@@ -55,7 +55,6 @@
 			<td><img width="60" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></td>
 		</tr>
 		<tr>
-			
 			<td><img width="60" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/></td>
 		</tr>
 	</table>
