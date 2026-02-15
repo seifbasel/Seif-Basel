@@ -1,10 +1,11 @@
 ![banner9](https://github.com/seifbasel/seifbasel/assets/83348134/128c6ed7-9e7f-4ce7-84d7-42ee7504c539)
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=1500&pause=200&color=4D6BF7&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=Hi+I'm+Seif+Basel;Full+Stack+Developer;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seifbasel&label=Profile%20views&color=0e75b6&style=flat" alt="seifbasel" />
