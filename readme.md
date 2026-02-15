@@ -123,7 +123,8 @@ ML-powered web app predicting diabetes risk using KNN, SVM, and Neural Networks.
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seifbasel&theme=radical&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seifbasel&contribs,prs)
+
 
 </div>
 
