@@ -123,7 +123,7 @@ ML-powered web app predicting diabetes risk using KNN, SVM, and Neural Networks.
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=seifbasel&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=seifbasel&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
