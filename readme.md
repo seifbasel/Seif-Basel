@@ -1,35 +1,74 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=1000&color=4D6BF7&center=true&vCenter=true&width=800&height=100&lines=Seif+Basel" alt="Typing SVG" />
-</h1>
+![banner9](https://github.com/seifbasel/seifbasel/assets/83348134/128c6ed7-9e7f-4ce7-84d7-42ee7504c539)
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Django;Building+Scalable+Web+Apps" alt="Typing SVG" />
-</h3>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=1500&pause=50&color=4D6BF7&background=FFFFFFF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=Hi+I'm+Seif+Basel;Full+Stack+Developer;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seifbasel&label=Profile%20Views&color=4D6BF7&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=seifbasel&label=Profile%20views&color=0e75b6&style=flat" alt="seifbasel" />
 </p>
 
----
+## 👨‍💻 About Me
 
-## 🚀 About Me
+I'm a **Full Stack Developer** with professional experience in building enterprise-level web applications. Currently pursuing Computer Science at Damietta University, I combine academic knowledge with real-world development experience.
 
-```typescript
-const seif = {
-    role: "Full Stack Developer",
-    location: "Cairo, Egypt 🇪🇬",
-    experience: {
-        company: "Transfective (Dubai)",
-        position: "Frontend Developer",
-        achievement: "50% reduction in delivery time"
-    },
-    education: "Computer Science @ Damietta University",
-    currentFocus: ["Next.js", "Django REST", "Scalable Architectures"],
-    openTo: ["Collaboration", "Freelance Projects", "Full-time Opportunities"]
-};
-```
+- 🚀 Former **Frontend Developer at Transfective** (Dubai) - Led development of enterprise systems that reduced delivery time by 50%
+- 💼 Specialized in **ReactJS, Next.js, Django, and PostgreSQL**
+- 🎓 Ranked **16th in Computer Science Department** (GPA: 3.26)
+- 🌍 Based in **Cairo, Egypt** | Languages: Arabic (Fluent), English (Excellent)
+- 🔭 Currently focusing on **full-stack development** and **scalable web architectures**
+- 👯 Open to collaborating on **innovative web projects**
+- 💬 Ask me about **React, Next.js, Django, or full-stack development**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+## 💼 Professional Experience
+
+### 🌟 Transfective | Dubai
+**Front-End Developer** (Remote, Full-time) | *July 2024 – January 2025*
+
+- Led frontend development for **TransHub**, a localization platform that automated workflows and reduced delivery time by **50%**
+- Architected responsive interfaces for **2 enterprise systems** (TransHub & Transfective HR)
+- Collaborated with cross-functional team of 5, delivering scalable solutions with focus on performance and UX
+- Technologies: React, Next.js, Tailwind CSS, Shadcn/UI, Framer Motion
+
+### 🎓 Information Technology Institute (ITI) | Mansoura
+**Full-Stack Development Trainee** | *June 2023 – August 2023*
+
+- Gained hands-on experience with modern web technologies
+- Developed a Library Management System as a full-stack project
+- Technologies: HTML, CSS, Bootstrap, JavaScript, Python, Django, PostgreSQL
+
+## 🚀 Featured Projects
+
+### 🌐 [TransHub - Localization Platform](https://github.com/seifbasel)
+Enterprise-level platform automating localization workflows, enabling efficient project tracking from initiation to delivery.
+- **Tech Stack:** React, Next.js, Tailwind CSS, Shadcn/UI, Framer Motion
+- **Impact:** Reduced delivery time by 50%
+
+### 👔 [Transfective HR - Employee Management](https://github.com/seifbasel)
+Internal HR system managing employee tasks, leave requests, interviews, and personnel data.
+- **Tech Stack:** React, Next.js, Tailwind CSS, Shadcn/UI, Framer Motion
+
+### 🪙 [Coinat - Authentic Coins Marketplace](https://github.com/seifbasel)
+Premium marketplace for coin collectors with advanced search, filtering, and smooth animations.
+- **Tech Stack:** Next.js, React, Tailwind CSS, GSAP, Framer Motion, Shadcn/UI
+
+### 🛒 [PROVA 3D - Virtual Try-On Store](https://github.com/seifbasel)
+Full-stack e-commerce with AR-based virtual try-on, sentiment analysis for reviews, and complete admin panel.
+- **Tech Stack:** Django REST Framework, PostgreSQL, JWT, React, scikit-learn, NLTK
+
+### 📚 [LMS - Library Management System](https://github.com/seifbasel)
+Full-stack web app with admin and student modules for managing books, users, and borrowing with role-based access.
+- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Python, Django, PostgreSQL
+
+### 👟 [Nike E-Commerce Clone](https://github.com/seifbasel)
+Responsive e-commerce web app with dynamic hero section and interactive product cards.
+- **Tech Stack:** ReactJS, Tailwind CSS
+
+### 🏥 [Diabetes Classification Web App](https://github.com/seifbasel)
+ML-powered web app predicting diabetes risk using KNN, SVM, and Neural Networks.
+- **Tech Stack:** Python, Flask, Bootstrap, scikit-learn
 
 ## 💻 Tech Stack
 
@@ -52,105 +91,31 @@ const seif = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 🏆 Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 TransHub
-**Enterprise Localization Platform**
-- Built with React, Next.js, Tailwind CSS
-- 50% faster delivery times
-- Used by Transfective Dubai
-
-</td>
-<td width="50%">
-
-### 🛒 PROVA 3D
-**AR E-Commerce Platform**
-- Virtual try-on with AR
-- Sentiment analysis (ML)
-- Django REST + React
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🪙 Coinat
-**Premium Coins Marketplace**
-- Advanced search & filtering
-- Smooth GSAP animations
-- Next.js + Framer Motion
-
-</td>
-<td width="50%">
-
-### 👔 Transfective HR
-**Internal HR System**
-- Employee management
-- Leave & interview tracking
-- Next.js enterprise app
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=seifbasel&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=seifbasel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=seifbasel&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 🌟 Core Competencies
+## 📊 GitHub Statistics
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Seif Basel))
-    Frontend
-      React & Next.js
-      TypeScript
-      Tailwind CSS
-      Responsive Design
-    Backend
-      Django REST
-      PostgreSQL
-      JWT Auth
-      API Development
-    Professional
-      Enterprise Apps
-      Team Collaboration
-      Performance Optimization
-      UI/UX Focus
-```
+![GitHub Streak](https://streak-stats.demolab.com/?user=seifbasel&theme=radical&hide_border=true)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+## 🎓 Education & Certifications
 
-## 📫 Let's Connect
+- **Bachelor of Computer Science** - Damietta University (GPA: 3.26, Ranked 16th)
+- **Full-Stack Web Development (Django)** - Information Technology Institute (ITI)
+- **Meta Back-End Development** - Coursera
+- **Meta Django Web Framework** - Coursera
+- **Meta APIs** - Coursera
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-basel-1a09191b9)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seifbasel950@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seifbasel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4D6BF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/seifbasel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-basel-1a09191b9)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seifbasel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seifbasel950@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seif__basel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/seifbasel)
 
 </div>
 
@@ -160,6 +125,8 @@ mindmap
 
 <div align="center">
   
-### 💡 Open to opportunities • Available for collaboration • Let's build something amazing! ✨
+### 💡 "Building the future, one commit at a time"
+
+**⭐ If you find my work interesting, consider giving a star to my repositories!**
 
 </div>
