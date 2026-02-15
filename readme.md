@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with professional experience in building enterprise-level web applications. Currently pursuing Computer Science at Damietta University, I combine academic knowledge with real-world development experience.
+I'm a **Full Stack Developer** with professional experience in building enterprise-level web applications.
 
 - 🚀 Former **Frontend Developer at Transfective** (Dubai) - Led development of enterprise systems that reduced delivery time by 50%
 - 💼 Specialized in **ReactJS, Next.js, Django, and PostgreSQL**
