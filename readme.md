@@ -110,12 +110,13 @@ ML-powered web app predicting diabetes risk using KNN, SVM, and Neural Networks.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![Seif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seifbasel&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seifbasel&layout=compact&theme=radical&hide_border=true)
+<a href="https://github.com/seifbasel">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seifbasel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seifbasel&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seifbasel&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=seifbasel&theme=radical&hide_border=true)
 
 </div>
 
@@ -123,7 +124,7 @@ ML-powered web app predicting diabetes risk using KNN, SVM, and Neural Networks.
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=seifbasel&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=seifbasel&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -153,6 +154,6 @@ ML-powered web app predicting diabetes risk using KNN, SVM, and Neural Networks.
   
 ### 💡 "Building the future, one commit at a time"
 
-![Visitor Count](https://profile-counter.glitch.me/seifbasel/count.svg)
+**⭐ If you find my work interesting, consider giving a star to my repositories!**
 
 </div>
